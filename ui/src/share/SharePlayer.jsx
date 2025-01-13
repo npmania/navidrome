@@ -1,4 +1,4 @@
-import ReactJkMusicPlayer from 'navidrome-music-player'
+import ReactJkMusicPlayer from 'navidrome-music-player-volumefork'
 import config, { shareInfo } from '../config'
 import { shareCoverUrl, shareDownloadUrl, shareStreamUrl } from '../utils'
 
